@@ -1,0 +1,1 @@
+The file contains the complete dataset that we analyzed and used for our experiments. The dataset includes the names of the researchers along with their corresponding author assessment parameter values.
